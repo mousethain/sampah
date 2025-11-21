@@ -194,7 +194,7 @@
                 "migration_type": "PRIOH_TO_PRIO",
                 "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
                 "option_name": "Akrab",
-                "order": 31
+                "order": 10
             },
             {
                 "family_name": "Night Quota",
@@ -233,7 +233,7 @@
                 "migration_type": "NONE",
                 "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
                 "option_name": "EWALLET & QRIS 1K",
-                "order": 24
+                "order": 10
             }
         ],
         "payment_for": "SHARE_PACKAGE",
