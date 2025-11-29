@@ -189,10 +189,10 @@
         "packages": [
             {
                 "family_name": "Akrab",
-                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+                "family_code": "8080ddcf-18c5-4d6d-86a4-89eb8ca5f2d1",
                 "is_enterprise": false,
                 "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
+                "variant_code": "0210c7da-5148-4f6a-891d-2acf6b7499a9",
                 "option_name": "Akrab",
                 "order": 31
             },
@@ -219,10 +219,10 @@
         "packages": [
             {
                 "family_name": "Akrab",
-                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+                "family_code": "8080ddcf-18c5-4d6d-86a4-89eb8ca5f2d1",
                 "is_enterprise": false,
                 "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
+                "variant_code": "0210c7da-5148-4f6a-891d-2acf6b7499a9",
                 "option_name": "Akrab",
                 "order": 31
             },
