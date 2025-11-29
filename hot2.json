@@ -302,7 +302,7 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
-        {
+    {
         "name": "BPA S 1.2K",
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
@@ -422,7 +422,7 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
-        {
+    {
         "name": "BPA S 1.2K",
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
@@ -542,8 +542,7 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
-    
-]    {
+    {
         "name": "BPA S 1.2K",
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
@@ -663,8 +662,7 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
-
-]    {
+    {
         "name": "BPA S 1.2K",
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
@@ -784,7 +782,6 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
-
     {
         "name": "BPA S 1.2K",
         "price": "Rp1200",
@@ -904,5 +901,5 @@
         "overwrite_amount": 1000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
-    },
+    }
 ]
