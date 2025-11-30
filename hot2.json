@@ -187,6 +187,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+           {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -194,15 +203,6 @@
                 "migration_type": "NONE",
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
-                "order": 1
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
                 "order": 1
             }
         ],
@@ -217,6 +217,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+          {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -226,15 +235,6 @@
                 "option_name": "Akrab",
                 "order": 2
             },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
-            }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
@@ -247,6 +247,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+         {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -255,15 +264,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 3
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -277,6 +277,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+          {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -285,15 +294,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 4
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -307,6 +307,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+         {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -315,15 +324,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 5
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -337,6 +337,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+           {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -345,15 +354,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 6
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -367,6 +367,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+         {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -375,15 +384,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 7
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -397,6 +397,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+           {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -405,15 +414,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 8
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -427,6 +427,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+           {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -435,15 +444,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 9
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -457,6 +457,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+            {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -465,15 +474,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 10
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -487,6 +487,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+        {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -495,15 +504,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 11
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -517,6 +517,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+           {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -525,15 +534,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 12
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -547,6 +547,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+         {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -555,15 +564,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 13
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -577,6 +577,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+         {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -585,15 +594,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 14
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -607,6 +607,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+          {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -615,15 +624,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 15
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -637,6 +637,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+          {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -645,15 +654,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 16
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -667,6 +667,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+          {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -675,15 +684,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 17
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -697,6 +697,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+          {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -705,15 +714,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 18
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -727,6 +727,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+          {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -735,15 +744,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 19
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -757,6 +757,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+          {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -765,15 +774,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 20
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -787,6 +787,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+          {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -795,15 +804,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 21
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -817,6 +817,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+           {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -825,15 +834,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 22
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -847,6 +847,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+           {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -855,15 +864,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 23
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -877,6 +877,15 @@
         "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+          {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -884,15 +893,6 @@
                 "migration_type": "NONE",
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
-                "order": 24
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
                 "order": 24
             }
         ],
@@ -907,6 +907,15 @@
         "price": "Rp1200",
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
+           {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            },
             {
                 "family_name": "Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
@@ -915,15 +924,6 @@
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Akrab",
                 "order": 25
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -938,15 +938,6 @@
         "detail": "Supported payment: E-wallet & QRIS",
         "packages": [
             {
-                "family_name": "Akrab",
-                "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
-                "option_name": "Akrab",
-                "order": 26
-            },
-            {
                 "family_name": "Apps Quota Xtra Combo Plus 2GB",
                 "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
                 "is_enterprise": false,
@@ -954,6 +945,15 @@
                 "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
                 "option_name": "EWALLET & QRIS 1K",
                 "order": 24
+            },
+            {
+                "family_name": "Akrab",
+                "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
+                "option_name": "Akrab",
+                "order": 26
             }
         ],
         "payment_for": "SHARE_PACKAGE",
